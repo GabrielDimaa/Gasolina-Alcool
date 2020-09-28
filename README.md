@@ -1,16 +1,6 @@
-# conversor_alcool_gasolina
+<h1>Álcool ou Gasolina?</h1>
+<p>Praticando Flutter em uma disciplina da faculdade.<p/> <br>
+<p>O objetivo da aplicação é dizer qual dos dois tipos de combustíveis vale mais a pena abastecer.</p>
+<br><br>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/GabrielDimaa/Gasolina-Alcool/blob/master/print.png" width="250px" height="450px"/>
