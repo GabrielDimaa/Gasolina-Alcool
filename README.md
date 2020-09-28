@@ -4,4 +4,4 @@
 </p>
 <br/>
 
-<img src="https://github.com/GabrielDimaa/Gasolina-Alcool/blob/master/print.png" width="250px" height="450px"/>
+<img src="https://github.com/GabrielDimaa/Gasolina-Alcool/blob/master/print.png" width="230px" height="480px"/>
